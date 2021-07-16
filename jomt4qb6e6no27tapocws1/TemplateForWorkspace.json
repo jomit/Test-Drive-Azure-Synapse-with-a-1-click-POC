@@ -335,7 +335,7 @@
 					},
 					"SQLLoginUsername": {
 						"type": "string",
-						"defaultValue": "jovagh@microsoft.com"
+						"defaultValue": "jomit"
 					},
 					"KeyVaultName": {
 						"type": "string",
